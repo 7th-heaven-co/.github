@@ -39,6 +39,7 @@
 | **[`blog-template`](https://github.com/7th-heaven-co/blog-template)** | Minimal scaffold of the 7th‑Heaven blog — drop‑in starter with opinionated configs and ready‑to‑deploy CI. | Astro 5, React 18, MDX, SCSS, GitHub Actions, Wrangler |
 | **[`style`](https://github.com/7th-heaven-co/style)** | Multi‑theme design‑system styles (default **Galaxy**; import other themes via sub‑path like `/nebula`) | CSS variables, SCSS, TypeScript helpers, sub‑path exports, Storybook 8, Tsup |
 | **[`docs`](https://github.com/7th-heaven-co/docs)** | Developer & world‑building documentation site built with the same Astro + React stack as the blog. | Astro 5, React 18, MDX, Cloudflare Pages, Wrangler |
+| **[`prodocsen`](https://github.com/prodocsen)** | AI generated docs | |
 | **`cloudflare‑purge`** | Worker/Pages Function that logs cache‑purge paths and timestamps, using `CLOUDFLARE_*` envs. | TypeScript + Hono, KV |
 | _More coming soon…_ | | |
 
