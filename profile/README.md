@@ -13,11 +13,11 @@
 <p align="center">
   <!-- Blog Site Status -->
   <a href="https://7th-heaven.blog">
-    <img src="https://img.shields.io/website?down_color=red&down_message=offline&up_color=brightgreen&up_message=online&url=https%3A%2F%2F7th-heaven.blog" alt="Site status">
+    <img src="https://img.shields.io/blog?down_color=red&down_message=offline&up_color=brightgreen&up_message=online&url=https%3A%2F%2F7th-heaven.blog" alt="Site status">
   </a>
   <!-- Docs Site Status -->
   <a href="https://docs.7th-heaven.blog">
-    <img src="https://img.shields.io/website?down_color=red&down_message=offline&up_color=brightgreen&up_message=online&url=https%3A%2F%2Fdocs.7th-heaven.blog" alt="Site status">
+    <img src="https://img.shields.io/docs?down_color=red&down_message=offline&up_color=brightgreen&up_message=online&url=https%3A%2F%2Fdocs.7th-heaven.blog" alt="Site status">
   </a>
  <!-- Style package (npm) -->
   <a href="https://www.npmjs.com/package/@7th-heaven-co/style">
