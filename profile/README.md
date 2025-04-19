@@ -48,9 +48,9 @@
 - **Discord:** `discord.gg/7th-heaven`
 - **Issues:** Use the issue tracker in the relevant repo.
 - **Twitter/X:** [@7thHeavenCo](https://x.com/7thHeavenCo)
--->
----
 
+---
+-->
 > © 2025 7th‑Heaven‑Co — *“See you in the skies!”*
 
 <!--
