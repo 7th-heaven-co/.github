@@ -21,14 +21,13 @@
 </p>
 -->
 ---
-
 ## ✨ Our Projects
 
 | Project | Description | Tech Highlights |
 |---------|-------------|-----------------|
-| **[`blog`](https://github.com/7th-heaven-co/blog)** | Serial‑fiction platform that prerenders MDX chapters into an SEO‑ready feed. Features collection filters, reverse‑chronological numbering, and paginated batches. | Astro 5, React 18, MDX, Cloudflare Pages, Wrangler, semantic‑release <br/> (Key UI: [`Filter`](src/components/blog/filter.tsx) 🪄, [`Post`](src/components/blog/posts/Post.tsx) 📰, [`Pagination`](src/components/blog/pagination/Pagination.tsx) 🔢) :contentReference[oaicite:0]{index=0} |
-| **[`docs`](https://github.com/7th-heaven-co/docs)** | Developer & world‑building documentation site built with the same Astro + React stack. | Astro 5, React 18, MDX, Cloudflare Pages, Wrangler |
-| **`cloudflare‑purge`** | Worker/Pages Function that logs cache‑purge paths and timestamps, using `CLOUDFLARE_*` envs. | TypeScript + Hono, KV |
+| **[`blog`](https://github.com/7th-heaven-co/blog)** | Serial‑fiction platform that prerenders MDX chapters into an SEO‑ready feed. Features collection filters, reverse‑chronological numbering, and paginated batches. | Astro 5, React 18, MDX, Cloudflare Pages, Wrangler, semantic‑release <br/> (Key UI components: [Filter](https://github.com/7th-heaven-co/blog/blob/main/src/components/blog/filter.tsx) 🪄 • [Post](https://github.com/7th-heaven-co/blog/blob/main/src/components/blog/posts/Post.tsx) 📰 • [Pagination](https://github.com/7th-heaven-co/blog/blob/main/src/components/blog/pagination/Pagination.tsx) 🔢) |
+| **[`docs`](https://github.com/7th-heaven-co/docs)** | Developer & world‑building documentation site built with the same Astro + React stack. | Astro 5, React 18, MDX, Cloudflare Pages, Wrangler |
+| **`cloudflare‑purge`** | Worker/Pages Function that logs cache‑purge paths and timestamps, using `CLOUDFLARE_*` envs. | TypeScript + Hono, KV |
 | _More coming soon…_ | | |
 
 ---
