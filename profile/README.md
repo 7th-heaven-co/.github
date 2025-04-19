@@ -19,6 +19,10 @@
   <a href="https://docs.7th-heaven.blog">
     <img src="https://img.shields.io/website?down_color=red&down_message=offline&up_color=brightgreen&up_message=online&url=https%3A%2F%2Fdocs.7th-heaven.blog" alt="Site status">
   </a>
+ <!-- Style package (npm) -->
+  <a href="https://www.npmjs.com/package/@7th-heaven-co/style">
+    <img src="https://img.shields.io/npm/v/@7th-heaven-co/style?label=Style%20pkg&logo=npm" alt="npm version">
+  </a>
   <!-- Discord community -->
   <a href="https://discord.gg/7th-heaven">
     <img src="https://img.shields.io/discord/123456789012345678?label=Discord&logo=discord" alt="Discord">
