@@ -15,7 +15,6 @@
   <a href="https://7th-heaven.blog">
     <img src="https://img.shields.io/website?label=Blog&down_color=red&down_message=offline&up_color=brightgreen&up_message=online&url=https%3A%2F%2F7th-heaven.blog" alt="Blog status">
   </a>
-  
   <!-- Docs site status -->
   <a href="https://docs.7th-heaven.blog">
     <img src="https://img.shields.io/website?label=Docs&down_color=red&down_message=offline&up_color=brightgreen&up_message=online&url=https%3A%2F%2Fdocs.7th-heaven.blog" alt="Docs status">
@@ -27,9 +26,6 @@
   <!-- Discord community -->
   <a href="https://discord.gg/7th-heaven">
     <img src="https://img.shields.io/discord/123456789012345678?label=Discord&logo=discord" alt="Discord">
-  </a>
-  <a href="https://github.com/7th-heaven-co/blog/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/7th-heaven-co/blog" alt="License">
   </a>
 </p>
 
