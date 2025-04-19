@@ -1,9 +1,9 @@
 <!-- .github/README.md – Organization profile -->
-
+<!--
 <p align="center">
   <img src="https://raw.githubusercontent.com/7th-heaven-co/assets/main/logo.svg" width="180" alt="7th‑Heaven‑Co logo">
 </p>
-
+-->
 <h1 align="center">7th‑Heaven‑Co</h1>
 
 <p align="center">
@@ -11,6 +11,15 @@
   <em>“Build once, share everywhere.”</em>
 </p>
 
+<!--
+<p align="center">
+  <a href="https://github.com/7th-heaven-co/blog/actions"><img src="https://img.shields.io/github/actions/workflow/status/7th-heaven-co/blog/ci.yml?branch=main&label=CI" alt="CI status"></a>
+  <a href="https://7th-heaven.blog"><img src="https://img.shields.io/website?down_color=red&down_message=offline&up_color=brightgreen&up_message=online&url=https%3A%2F%2F7th-heaven.blog" alt="Site status"></a>
+  <a href="https://img.shields.io/badge/performance-100%25-brightgreen" alt="Lighthouse Perf 100"></a>
+  <a href="https://github.com/7th-heaven-co/.github/blob/main/CODE_OF_CONDUCT.md"><img src="https://img.shields.io/badge/conduct-respect-brightgreen" alt="Code of Conduct"></a>
+  <a href="https://github.com/7th-heaven-co/blob/main/LICENSE"><img src="https://img.shields.io/github/license/7th-heaven-co/blog" alt="License"></a>
+</p>
+-->
 ---
 
 ## ✨ Our Projects
@@ -54,11 +63,4 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
-<p align="center">
-  <a href="https://github.com/7th-heaven-co/blog/actions"><img src="https://img.shields.io/github/actions/workflow/status/7th-heaven-co/blog/ci.yml?branch=main&label=CI" alt="CI status"></a>
-  <a href="https://7th-heaven.blog"><img src="https://img.shields.io/website?down_color=red&down_message=offline&up_color=brightgreen&up_message=online&url=https%3A%2F%2F7th-heaven.blog" alt="Site status"></a>
-  <a href="https://img.shields.io/badge/performance-100%25-brightgreen" alt="Lighthouse Perf 100"></a>
-  <a href="https://github.com/7th-heaven-co/.github/blob/main/CODE_OF_CONDUCT.md"><img src="https://img.shields.io/badge/conduct-respect-brightgreen" alt="Code of Conduct"></a>
-  <a href="https://github.com/7th-heaven-co/blob/main/LICENSE"><img src="https://img.shields.io/github/license/7th-heaven-co/blog" alt="License"></a>
-</p>
 -->
