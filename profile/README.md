@@ -31,6 +31,10 @@
 
 ---
 
+Welcome to 7th-Heaven, a serialized fantasy storytelling experience brought to life through modern web technologies. Here, you'll embark on an immersive journey featuring narratives, announcements, community insights, and exclusive releases, carefully woven chapter by chapter. This blog is dedicated to storytelling, creativity, and fostering a vibrant reader community.
+
+---
+
 ## ✨ Our Projects
 
 | Project | Description | Tech Highlights |
