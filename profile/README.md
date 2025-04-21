@@ -15,18 +15,6 @@
   <a href="https://7th-heaven.blog">
     <img src="https://img.shields.io/website?label=Blog&down_color=red&down_message=offline&up_color=brightgreen&up_message=online&url=https%3A%2F%2F7th-heaven.blog" alt="Blog status">
   </a>
-  <!-- Docs site status -->
-  <a href="https://docs.7th-heaven.blog">
-    <img src="https://img.shields.io/website?label=Docs&down_color=red&down_message=offline&up_color=brightgreen&up_message=online&url=https%3A%2F%2Fdocs.7th-heaven.blog" alt="Docs status">
-  </a>
- <!-- Style package (npm) -->
-  <a href="https://www.npmjs.com/package/@7th-heaven-co/style">
-    <img src="https://img.shields.io/npm/v/@7th-heaven-co/style?label=Style%20pkg&logo=npm" alt="npm version">
-  </a>
-  <!-- Discord community -->
-  <a href="https://discord.gg/7th-heaven">
-    <img src="https://img.shields.io/discord/123456789012345678?label=Discord&logo=discord" alt="Discord">
-  </a>
 </p>
 
 ---
@@ -73,4 +61,17 @@ All repositories default to the **MIT License** unless stated otherwise in the r
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
+Apply later:
+  <!-- Docs site status -->
+  <a href="https://docs.7th-heaven.blog">
+    <img src="https://img.shields.io/website?label=Docs&down_color=red&down_message=offline&up_color=brightgreen&up_message=online&url=https%3A%2F%2Fdocs.7th-heaven.blog" alt="Docs status">
+  </a>
+ <!-- Style package (npm) -->
+  <a href="https://www.npmjs.com/package/@7th-heaven-co/style">
+    <img src="https://img.shields.io/npm/v/@7th-heaven-co/style?label=Style%20pkg&logo=npm" alt="npm version">
+  </a>
+  <!-- Discord community -->
+  <a href="https://discord.gg/7th-heaven">
+    <img src="https://img.shields.io/discord/123456789012345678?label=Discord&logo=discord" alt="Discord">
+  </a>
 -->
